@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Jane Doe</string>
+    <string name="title">Greatest Android Developer</string>
+    <string name="phone">+051 100123456</string>
+    <string name="social_handle">\@jane</string>
+    <string name="email">mi@mail.com</string>
+</resources>
